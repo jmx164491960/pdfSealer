@@ -1,0 +1,29 @@
+{
+  "name": "pdfsealer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jiangminxi <164491960@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmx164491960/pdfSealer/issues"
+  },
+  "files": [
+    "lib",
+    "types"
+  ],
+  "keywords": [
+    "vue",
+    "pdf",
+    "seal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmx164491960/pdfSealer.git",
+
+    "homepage": "https://github.com/jmx164491960/pdfSealer#readme"
+  }
+}
