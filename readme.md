@@ -6,5 +6,5 @@
 ## Demo
 
 cd example  
-npm i 
+npm i  
 npm run dev
