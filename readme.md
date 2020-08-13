@@ -5,6 +5,6 @@
 
 ## Demo
 
-cd example
-npm i
+cd example  
+npm i 
 npm run dev
