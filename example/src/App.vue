@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import pdfSealer from '../../lib/index';
+import pdfSealer from 'pdfsealer';
 export default {
   name: 'App',
   components: {
